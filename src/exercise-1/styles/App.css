@@ -18,7 +18,14 @@ main {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding-left: 300px;
-  padding-right: 40px;
+  padding-left: 260px;
+  padding-right: 30px;
+}
+
+.productLink {
+  display: block;
+  margin-bottom: 10px;
+  color: red;
+  font-weight: bold;
 }
 
