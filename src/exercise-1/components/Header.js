@@ -6,7 +6,7 @@ class Header extends Component {
     return(
       <div className="header">
         <Link to="/">Home</Link>
-        <Link to="/my-profile">my Profile</Link>
+        <Link to="/my-profile">My Profile</Link>
         <Link to="/about-us">About Us</Link>
       </div>
     );
